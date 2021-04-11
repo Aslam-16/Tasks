@@ -1,0 +1,44 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    margin: 25px 0;
+}
+
+.menu-list {
+    width: 80%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    justify-content: center;
+}
+
+.menu {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.add {
+    background: rgb(56, 157, 252);
+    font-size: 15px;
+}
+span {
+    border-radius: 5px;
+    padding: 4px;
+}
+
+.Veg {
+    background: rgb(79, 241, 79);
+}
+
+.Non-Veg {
+    background-color: rgb(250, 77, 77);
+}

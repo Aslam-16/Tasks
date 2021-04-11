@@ -1,0 +1,42 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.signup-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+label {
+    font-size: 25px;
+}
+
+input {
+    font-size: 20px;
+    background: whitesmoke;
+    margin: 20px 0;
+    border: none;
+    border-bottom: 1px dotted black;
+    outline: 0;
+    width: 100%;
+}
+
+.signup-btn {
+    border: 0;
+    outline: 0;
+    background-color: rgb(255, 67, 67);
+    padding: 10px 8px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+h1 {
+    padding: 15px 0;
+}

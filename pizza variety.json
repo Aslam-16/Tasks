@@ -1,0 +1,25 @@
+[{
+    "name": "Margherita",
+    "type": "Veg",
+    "price": 250
+},
+{
+    "name": "Double Cheese Margherita",
+    "type": "Veg",
+    "price": 350
+},
+{
+    "name": "Farm House",
+    "type": "Veg",
+    "price": 275
+},
+{
+    "name": "PANEER MAKHANI",
+    "type": "Veg",
+    "price": 390
+},
+{
+    "name": "VEGGIE PARADISE",
+    "type": "Veg",
+    "price": 400
+}]
